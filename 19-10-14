@@ -1,1 +1,6 @@
 Data augmentation using learned transformations for one-shot medical image segmentation
+
+Traditional image segmentation rely on supervied training with lage labeled datasets. 
+But labeling requires significant expertise and time.
+The author present an automated data augmentation method for synthesizing labeled medical images.
+Their merequires only a single segmented scan, and leverages other unlabeled scans in a semi-supervised approach.
